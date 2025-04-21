@@ -20,11 +20,11 @@ It allows users to configure score estimation settings via a **touchscreen panel
 
 ### 🔧 Configuration Panel
 
-![Configuration Panel](config_panel.png)
+![Configuration Panel](config_panel.PNG)
 
 ### 🧾 Score Display Screen
 
-![Score Display](score_display.png)
+![Score Display](score_display.PNG)
 
 ---
 
