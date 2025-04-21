@@ -1,6 +1,5 @@
 # 🎛️ Screen_euro25 – Score Estimation Panel for STM32F746G-DISCO
 
-![Project Banner](images/project_banner.png)
 
 ## 📋 Overview
 
@@ -21,11 +20,11 @@ It allows users to configure score estimation settings via a **touchscreen panel
 
 ### 🔧 Configuration Panel
 
-![Configuration Panel](images/config_panel.png)
+![Configuration Panel](config_panel.png)
 
 ### 🧾 Score Display Screen
 
-![Score Display](images/score_display.png)
+![Score Display](score_display.png)
 
 ---
 
