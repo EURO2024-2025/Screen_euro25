@@ -1,0 +1,4 @@
+C:/TouchGFXProjects/euro25/TouchGFX/gui/src/model/Model.cpp:4:1:Model::Model()	0	static
+C:/TouchGFXProjects/euro25/TouchGFX/gui/src/model/Model.cpp:9:6:void Model::tick()	0	static
+C:/TouchGFXProjects/euro25/TouchGFX/gui/src/model/Model.cpp:14:5:int Model::getScore() const	0	static
+C:/TouchGFXProjects/euro25/TouchGFX/gui/src/model/Model.cpp:19:6:void Model::setScore(int)	0	static

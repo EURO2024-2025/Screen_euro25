@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/configuration_screen/configurationPresenter.hpp:29:13:configurationPresenter::~configurationPresenter()	0	static
+C:/TouchGFXProjects/euro25/TouchGFX/gui/src/configuration_screen/configurationPresenter.cpp:10:6:virtual void configurationPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/configuration_screen/configurationPresenter.hpp:29:13:virtual configurationPresenter::~configurationPresenter()	8	static
+../../TouchGFX/gui/include/gui/configuration_screen/configurationPresenter.hpp:29:13:virtual void* configurationPresenter::_ZThn4_N22configurationPresenterD1Ev()	0	static
+C:/TouchGFXProjects/euro25/TouchGFX/gui/src/configuration_screen/configurationPresenter.cpp:4:1:configurationPresenter::configurationPresenter(configurationView&)	0	static

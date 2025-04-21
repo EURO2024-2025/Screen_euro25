@@ -1,0 +1,19 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+C:/TouchGFXProjects/euro25/TouchGFX/gui/src/configuration_screen/configurationView.cpp:23:6:virtual void configurationView::tearDownScreen()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:357:8:touchgfx::Callback<configurationView, const touchgfx::AbstractButton&>::~Callback()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:386:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = configurationView; T1 = const touchgfx::AbstractButton&]	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:396:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = configurationView; T1 = const touchgfx::AbstractButton&]	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:357:8:virtual touchgfx::Callback<configurationView, const touchgfx::AbstractButton&>::~Callback()	8	static
+../../TouchGFX/gui/include/gui/configuration_screen/configurationView.hpp:11:13:configurationView::~configurationView()	8	static
+../../TouchGFX/gui/include/gui/configuration_screen/configurationView.hpp:11:13:virtual configurationView::~configurationView()	8	static
+C:/TouchGFXProjects/euro25/TouchGFX/gui/src/configuration_screen/configurationView.cpp:3:1:configurationView::configurationView()	8	static
+C:/TouchGFXProjects/euro25/TouchGFX/gui/src/configuration_screen/configurationView.cpp:36:6:void configurationView::radioButton1Clicked()	16	static
+C:/TouchGFXProjects/euro25/TouchGFX/gui/src/configuration_screen/configurationView.cpp:47:6:void configurationView::radioButton2Clicked()	16	static
+C:/TouchGFXProjects/euro25/TouchGFX/gui/src/configuration_screen/configurationView.cpp:58:6:void configurationView::radioButton3Clicked()	16	static
+C:/TouchGFXProjects/euro25/TouchGFX/gui/src/configuration_screen/configurationView.cpp:27:6:void configurationView::handleRadioButtonClicked(const touchgfx::AbstractButton&)	0	static
+C:/TouchGFXProjects/euro25/TouchGFX/gui/src/configuration_screen/configurationView.cpp:68:6:void configurationView::updateCounterDisplay()	8	static
+C:/TouchGFXProjects/euro25/TouchGFX/gui/src/configuration_screen/configurationView.cpp:73:6:virtual void configurationView::buttonUpClicked()	16	static
+C:/TouchGFXProjects/euro25/TouchGFX/gui/src/configuration_screen/configurationView.cpp:82:6:virtual void configurationView::buttonDownClicked()	16	static
+C:/TouchGFXProjects/euro25/TouchGFX/gui/src/configuration_screen/configurationView.cpp:8:6:virtual void configurationView::setupScreen()	16	static
